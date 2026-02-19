@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="../style.css">
+<link rel="stylesheet" href="../../style.css">
 
 
 # ✨ 1 Corinthians 1:18 — Foolishness or Power? ✨  

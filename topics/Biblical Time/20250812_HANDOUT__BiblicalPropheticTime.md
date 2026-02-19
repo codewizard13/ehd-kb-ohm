@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="../style.css">
+<link rel="stylesheet" href="../../style.css">
 
 
 ## 🔹 1. Handout: 📜 **Revelation Time Symbols — Bible Manners and Customs**
